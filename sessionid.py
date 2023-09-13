@@ -1,6 +1,5 @@
 import requests,os
 import threading
-from user_agent import generate_user_agent
 
 def h():
     username = input("user : ")
